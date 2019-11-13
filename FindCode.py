@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # @Time  : 2019/11/7 16:45
-# @Author: RJY
+# @Author: jryen2015
 # @File  : FindCode.py
 
 """
